@@ -5,7 +5,7 @@
 - 📫 How to reach me: debuysttim@gmail.com
 - Currently studying Computer Science Engineering @ UGent, Belgium
 - Previous internships: Waylay and Deloitte IT Consulting
-- Languages: Python, Java, C/C++
+- Languages: Python, Java, C/C++ (and others ;) )
 
 <!---
 timdebuyst/timdebuyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
