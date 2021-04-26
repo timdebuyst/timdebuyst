@@ -6,6 +6,7 @@
 - Currently studying Computer Science Engineering @ UGent, Belgium
 - Previous internships: Waylay and Deloitte IT Consulting
 - Languages: Python, Java, C/C++ (and others ;) )
+- [HackerRank](https://www.hackerrank.com/debuysttim)
 
 <!---
 timdebuyst/timdebuyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
